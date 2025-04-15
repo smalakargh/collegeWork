@@ -2,4 +2,4 @@
 
 ## 🔥🔥🔥Check It !!!
 
-## If you Liked this Repository, Then Don't Forget ⭐ Starred
+## If you Liked this Repository, Then Don't Forget to ⭐ Starred
