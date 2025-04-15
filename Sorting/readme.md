@@ -2,4 +2,4 @@
 
 ## bubbleSorting OutPUT 👀:
 
-![bubbleSort]{https://github.com/smalakargh/collegeWork/blob/main/Sorting/src/bubbleSortingOutput.png?raw=true}
+![bubbleSort]{https://raw.githubusercontent.com/smalakargh/collegeWork/refs/heads/main/Sorting/src/bubbleSortingOutput.png}
