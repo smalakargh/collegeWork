@@ -11,7 +11,7 @@
 
 2. Changing Directory
     ```bash
-    cd repository-name
+    cd collegeWork
 
 
 ## Contributing
