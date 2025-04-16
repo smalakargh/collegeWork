@@ -1,4 +1,4 @@
-# 🌟 Tackling College-Level C Programming Challenges! 🌟
+## 🌟 Tackling College-Level C Programming Challenges! 🌟
 
   Colleges often present diverse and thought-provoking C programming questions to help students strengthen their coding skills.
    To make your learning journey smoother, I’ve compiled solutions to some of the common challenges. 
@@ -8,6 +8,7 @@
 
 #CProgramming #CodingChallenges #ProblemSolving #LearnToCode  
 
+----------------------------------------------------------------------------------
 
 ## Installation
 1. Clone the repository:
