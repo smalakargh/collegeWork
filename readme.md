@@ -30,10 +30,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 Maintained by Smalakar.  
-<a href="https://www.linkedin.com/in/supriyomalakar/" style="text-decoration:none;">
-  <button style="background-color:blue;color:white;border:none;padding:10px 20px;border-radius:5px;cursor:pointer;text-decoration:none;">
-    Click Me!
-  </button>
-</a>
+[![Smalakar LinkedIn](https://img.shields.io/badge/Button-Click%20Me-blue)](https://www.linkedin.com/in/supriyomalakar/)
+
 
 
