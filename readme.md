@@ -30,7 +30,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 Maintained by Smalakar.  
-[![Smalakar LinkedIn](https://img.shields.io/badge/Button-Click%20Me-blue)](https://www.linkedin.com/in/supriyomalakar/)
+[![Smalakar LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/supriyomalakar/)
 
 
 
