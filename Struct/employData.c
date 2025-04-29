@@ -1,3 +1,6 @@
+// Write a Program in C to store and print information of multiple employees using structures
+
+
 #include <stdio.h>
 #define maxEmp 5
 struct employData{

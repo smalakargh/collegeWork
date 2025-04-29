@@ -1,3 +1,7 @@
+// Write a Program in C to Separate Each Chareacter from String and Print it in Reverse Order.
+
+
+
 #include <stdio.h>
 
 int main(){

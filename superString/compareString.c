@@ -1,4 +1,7 @@
+// Write a program in C to check, two string taken are same and also its length of both string.
+
 #include <stdio.h>
+
 void count(char str1[],char str2[]){
     int count1 = 0;
     while (str1[count1] != '\0') {

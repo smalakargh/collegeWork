@@ -1,3 +1,6 @@
+// // Write a Program in C to transpose the matrixxx.
+
+
 #include <stdio.h>
 
 int main() {

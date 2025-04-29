@@ -1,3 +1,6 @@
+// Write a Program in C to copy One string to Another without using Built in Function.
+
+
 #include <stdio.h>
 int main(){
     char str[] = "Something";

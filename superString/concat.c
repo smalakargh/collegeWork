@@ -1,3 +1,6 @@
+// Write a program in C to concat two string Using built in Function.
+
+
 #include <stdio.h>
 #include <string.h>
 

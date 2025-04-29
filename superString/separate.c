@@ -1,3 +1,6 @@
+// Write a Program in C to Separate Each Chareacter from String and Print it.
+
+
 #include <stdio.h>
 
 int main(){

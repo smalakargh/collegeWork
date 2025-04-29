@@ -1,3 +1,6 @@
+// Write a Program in C to check, both the matrix are same.
+
+
 #include <stdio.h>
 
 int main() {
