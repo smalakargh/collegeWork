@@ -32,7 +32,7 @@ int main() {
                 break;
             }
         }
-        if (isEqual != 0) {break};
+        if (isEqual != 0) {break;}
     }
 
 
