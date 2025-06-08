@@ -19,7 +19,7 @@ void printSort(int Arr[],int Size){
 }
 
 int main(){
-    int arr[] = {87,54,23,76,45,89,67,76,43,245};
+    int arr[] = {87,54,23,76,45,89,67,76,43,245}; //unsorted Array
     int size = sizeof(arr)/sizeof(arr[0]);
 
     printf("\nBefore Sorting :\n");
