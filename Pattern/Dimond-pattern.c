@@ -1,4 +1,4 @@
-// Disclaimer :: This code is littleBit Length, so may not be Understable Easily.
+// Disclaimer :: This code is littleBit Lengthy, so may not be Understable Easily.
 // Disclaimer :: If you have seen my previous Pattern printing Solutions, Then Easily you can UnderStand this Code.
 // Disclaimer :: RUN this CODE in you computer.
 
