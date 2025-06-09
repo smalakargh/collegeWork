@@ -5,10 +5,9 @@ int fibonacci(int num){
     return num+fibonacci(num-1);
 }
 int main(){
-   int num;
-   printf("Enter Number for Fibonacci : ");
-   scanf("%d",&num);
-   int result = fibonacci(num);
-   printf("%d",result);
-   return 0;
+    int num;
+    printf("Enter any Number (fibonacci) :: ");
+    scanf("%d",&num);
+    printf("fibonacci of %d is %d",num,fibonacci(num));
+    return 0;
 }
